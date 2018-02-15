@@ -1,0 +1,20 @@
+{
+  "name": "mango-avocado-papaya-dot-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benmonro/mango-avocado-papaya-dot-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benmonro/mango-avocado-papaya-dot-js/issues"
+  },
+  "homepage": "https://github.com/benmonro/mango-avocado-papaya-dot-js#readme"
+}
